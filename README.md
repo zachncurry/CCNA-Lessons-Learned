@@ -1,8 +1,10 @@
-# CCNA-Lessons-Learned
-
+# CCNA Lessons Learned
 <a href = "https://www.credly.com/badges/a3e0bee4-a9ec-4f14-a758-aa43e0af5518">
   <img src = "https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="Link to CCNA Credly Badge" style ="width: 100px; height: 100px; background-color: white" />
-</a>
+</a></br>
+
+**Issued:** November 6, 2025
+
 
 I love network engineering because it requires system design thinking!
 You are forced to understand what has come before and how those protocols/logics have changed over time. 
