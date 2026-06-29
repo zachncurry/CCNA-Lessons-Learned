@@ -18,6 +18,23 @@ Not to mention the impact on cybersecurity!
 See my [CCNA outline in Google Docs](https://docs.google.com/document/d/12Gp4MtyoY69JkLNU9DKZ5IVAbavsvYJGzZVA2LkZ7a8/edit?usp=sharing)
 _This also provides you with a step by step guide on configurations._
 
+</br>
+
+**Hands on Experience Included:**
+</br>
+<a href = "https://www.netacad.com/resources/lab-downloads?courseLang=en-US">
+  <img src = "https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.jpg" style ="width: 140px; height: 100px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://www.gns3.com/">
+  <img src = "https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" style ="width: 100px; height: 100px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://www.wireshark.org/">
+  <img src = "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/m5KlyZx99eU6LQ4X/png-wireshark-Yyv3gO93rRCPp72G.png" style ="width: 125px; height: 100px; background-color: white; padding: 40px" />
+</a>
+
+</br>
+ 
+
 Below are the exam topics required to successfully administor a network.
 
 ## 1.0 Network Fundamentals
