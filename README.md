@@ -18,7 +18,6 @@ Not to mention the impact on cybersecurity!
 See my [CCNA outline in Google Docs](https://docs.google.com/document/d/12Gp4MtyoY69JkLNU9DKZ5IVAbavsvYJGzZVA2LkZ7a8/edit?usp=sharing)
 _This also provides you with a step by step guide on configurations._
 
-</br>
 
 **Hands on Experience Included:**
 </br>
@@ -32,7 +31,6 @@ _This also provides you with a step by step guide on configurations._
   <img src = "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/m5KlyZx99eU6LQ4X/png-wireshark-Yyv3gO93rRCPp72G.png" style ="width: 125px; height: 100px; background-color: white; padding: 40px" />
 </a>
 
-</br>
  
 
 Below are the exam topics required to successfully administor a network.
