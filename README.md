@@ -5,6 +5,7 @@
 
 **Issued:** November 6, 2025
 
+**Key Outcome:** I am now able to install, operate, configure, and troubleshoot enterprise networks including data centers.
 
 I love network engineering because it requires system design thinking!
 You are forced to understand what has come before and how those protocols/logics have changed over time. 
